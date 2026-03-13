@@ -130,20 +130,21 @@ Implemented deployment pipelines using:
 
 # 🎓 Education
 
-**MSc Computer Science**  
+🎓 **MSc Computer Science**  
 University of Cyprus  
 
 Thesis: *wAIter Assistant (Cognitive Programming)*  
-Technologies: LAMP, JavaScript, Java, Prolog, Docker
+Stack: LAMP • JavaScript • Java • Prolog • Docker
 
 ---
 
-**BSc Electrical & Computer Engineering**  
+🎓 **BSc Electrical & Computer Engineering**  
 National Technical University of Athens  
 
 Thesis: *Data Anonymization Techniques on Family Trees*  
 Field: Computer Network Security  
-Technologies: Python
+Stack: Python
+
 ---
 
 # 📄 Publication
