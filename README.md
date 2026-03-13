@@ -1,7 +1,9 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:00c6ff&height=200&section=header&text=Revekka%20Kalli%20DevOps%20Engineer&fontSize=40&fontColor=ffffff)
 <!-- BANNER -->
 <h1 align="center">Hi 👋 I'm Revekka Kalli</h1>
-
+<div align="center">
+<b style="font-size:36px;">Hi 👋 I'm Revekka Kalli</b>
+</div>
 <p align="center">
 DevOps Engineer • Linux Infrastructure • Automation • CI/CD
 </p>
