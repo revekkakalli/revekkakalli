@@ -19,20 +19,36 @@ Currently working on **production hosting infrastructure**, building automation 
 # ⚙️ Infrastructure Stack
 
 <p align="center">
-<img height="30" src="https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions,python,bash,php,js,ts,react" />
+<img height="20" src="https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions,python,bash,php,js,ts,react" />
 </p>
 
-**Infrastructure**
+**🖥 Infrastructure**
 
-Linux • LAMP / LEMP • HAProxy • Zabbix • Virtualizor • Firewall Management
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx" height="20"/>
+</p>
 
-**Automation**
+Linux • Docker • HAProxy • Virtualizor • LAMP / LEMP
 
-Bash scripting • Python • Cron automation • Server provisioning
+**🔁 Automation & CI/CD**
 
-**CI/CD**
+<p>
+<img src="https://skillicons.dev/icons?i=git,githubactions,bash,python" height="20"/>
+</p>
 
-GitHub Actions • GitLab CI • Branch-based deployments • Netlify preview environments
+Git • GitHub Actions • GitLab CI • Bash • Cron automation
+
+**🌐 Web & APIs**
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,php,html,css" height="20"/>
+</p>
+
+REST APIs • GraphQL • JavaScript • TypeScript • React • PHP
+
+**📊 Monitoring**
+
+Zabbix • iDRAC / Redfish • Infrastructure APIs
 
 ---
 
