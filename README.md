@@ -109,16 +109,60 @@ Integrated internal systems with infrastructure platforms including
 - INXY Payments
 
 <details>
-<summary>###🔧 Infrastructure API Integrations</summary>
+<summary>🔗 Infrastructure API Integrations</summary>
 
-- Zabbix
-- Dell iDRAC / Redfish
-- Virtualizor
-- Servers.com
-- isHosting
-- Acronis Cloud Backup
-- JCC Payments
-- INXY Payments
+<br>
+
+<table>
+<tr>
+<td><img src="https://cdn.simpleicons.org/zabbix/cc0000" height="20"/></td>
+<td><b>Zabbix</b></td>
+<td>Monitoring automation and infrastructure integration</td>
+</tr>
+
+<tr>
+<td><img src="https://cdn.simpleicons.org/dell/007db8" height="20"/></td>
+<td><b>Dell iDRAC / Redfish API</b></td>
+<td>Server management and automation</td>
+</tr>
+
+<tr>
+<td><img src="https://cdn.simpleicons.org/docker/2496ed" height="20"/></td>
+<td><b>Virtualizor</b></td>
+<td>Virtual server provisioning and infrastructure automation</td>
+</tr>
+
+<tr>
+<td>🖥</td>
+<td><b>Servers.com</b></td>
+<td>Infrastructure provisioning and management APIs</td>
+</tr>
+
+<tr>
+<td>☁</td>
+<td><b>isHosting</b></td>
+<td>Hosting infrastructure integrations</td>
+</tr>
+
+<tr>
+<td><img src="https://cdn.simpleicons.org/acronis/ffcc00" height="20"/></td>
+<td><b>Acronis Cloud Backup</b></td>
+<td>Backup automation and monitoring</td>
+</tr>
+
+<tr>
+<td>💳</td>
+<td><b>JCC Payments</b></td>
+<td>Payment processing integration</td>
+</tr>
+
+<tr>
+<td>💳</td>
+<td><b>INXY Payments</b></td>
+<td>Billing and payment API integration</td>
+</tr>
+
+</table>
 
 </details>
 
