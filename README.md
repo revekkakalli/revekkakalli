@@ -174,7 +174,7 @@ Email: kalli.revekka@gmail.com
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:CFFF04&height=200&section=header&text=DevOps%20Engineer&fontColor=000000)
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1b27,100:343a40&height=70&section=header&text=Revekka%20Kalli&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1b27,100:343a40&height=100&section=header&text=Revekka%20Kalli&fontSize=20&fontColor=ffffff"/>
 </p>
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:00c6ff&height=200&section=header&text=Revekka%20Kalli%20%7C%20DevOps%20Engineer&fontSize=40&fontColor=ffffff)
