@@ -98,19 +98,6 @@ Tech: PHP • APIs • automation
 ### Infrastructure API Integrations
 
 Integrated internal systems with infrastructure platforms including
-
-- Zabbix
-- Dell iDRAC / Redfish
-- Virtualizor
-- Servers.com
-- isHosting
-- Acronis Cloud Backup
-- JCC Payments
-- INXY Payments
-
-<details>
-<summary>🔗 Infrastructure API Integrations</summary>
-
 <br>
 
 <table>
@@ -163,8 +150,6 @@ Integrated internal systems with infrastructure platforms including
 </tr>
 
 </table>
-
-</details>
 
 ---
 
