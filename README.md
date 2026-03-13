@@ -25,7 +25,7 @@ My work focuses on:
 
 Currently working on improving **deployment workflows, automation systems, and internal developer platforms.**
 
----
+
 
 # 🧰 Tech Stack
 
@@ -36,7 +36,7 @@ Currently working on improving **deployment workflows, automation systems, and i
 Linux • LAMP / LEMP • HAProxy • Zabbix • Virtualizor  
 Infrastructure automation • Server provisioning • Firewall management
 
----
+
 
 ### Automation & CI/CD
 
@@ -48,7 +48,7 @@ GitLab CI
 Cron automation  
 Deployment pipelines
 
----
+
 
 ### Programming & Scripting
 
@@ -59,7 +59,7 @@ Bash
 PHP  
 JavaScript / TypeScript
 
----
+
 
 ### Web & APIs
 
@@ -71,7 +71,7 @@ React
 HTML / CSS  
 jQuery
 
----
+
 
 # 🔧 Infrastructure & Automation Work
 
@@ -84,7 +84,7 @@ Developed automation scripts used to configure production infrastructure includi
 - Security tools (iptables, maldet)
 - Server provisioning workflows
 
----
+
 
 ### LookingGlass Deployment Automation
 
@@ -99,7 +99,7 @@ Features:
 
 Tech: Linux, Bash, automation
 
----
+
 
 ### iDRAC Server Management Portal
 
@@ -114,7 +114,7 @@ Capabilities:
 
 Tech: PHP, APIs, Linux automation
 
----
+
 
 ### Infrastructure API Integrations
 
@@ -129,7 +129,7 @@ Integrated internal systems with infrastructure platforms including:
 - JCC Payments
 - INXY Payments
 
----
+
 
 # 🔁 CI/CD & Deployment
 
@@ -141,37 +141,17 @@ Designed and implemented:
 • GitLab CI pipelines  
 • Netlify preview environments for React apps  
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=revekkakalli&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revekkakalli&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-<img src="https://github.com/revekkakalli/revekkakalli/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 🎓 Education
 
 **MSc Computer Science**  
 University of Cyprus
+Thesis: wAIter Assistant (Cognitive Programming) - LAMP, JavaScript, Java, Prolog, Docker
 
 **BSc Electrical & Computer Engineering**  
 National Technical University of Athens
+Thesis: Data Anonymization Techniques on Family Trees (Computer Network Security) - Python
 
----
 
 # 📄 Publication
 
