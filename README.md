@@ -330,30 +330,4 @@ Designed and implemented:
 • Netlify preview environments for React apps  
 
 
-# 🎓 Education
-
-**MSc Computer Science**  
-University of Cyprus
-Thesis: wAIter Assistant (Cognitive Programming) - LAMP, JavaScript, Java, Prolog, Docker
-
-**BSc Electrical & Computer Engineering**  
-National Technical University of Athens
-Thesis: Data Anonymization Techniques on Family Trees (Computer Network Security) - Python
-
-
-# 📄 Publication
-
-Re-Identification Risk in Anonymized Data Sets with Parent-Child Information  
-SEEDA-CECNSM 2021
-
----
-
-# 📫 Contact
-
-GitHub: https://github.com/revekkakalli  
-LinkedIn: https://linkedin.com/in/revekka-kalli  
-Email: kalli.revekka@gmail.com
-
----
-
 ⭐ Always interested in building automation tools and infrastructure platforms.
