@@ -19,7 +19,7 @@ Currently working on **production hosting infrastructure**, building automation 
 # ⚙️ Infrastructure Stack
 
 <p align="center">
-<img width="20" src="https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions,python,bash,php,js,ts,react" />
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions,python,bash,php,js,ts,react" />
 </p>
 
 **Infrastructure**
