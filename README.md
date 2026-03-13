@@ -36,6 +36,9 @@ Python • Bash • PHP • JavaScript • TypeScript
 ### Web Technologies
 React • REST APIs • GraphQL • HTML • CSS • jQuery
 
+## ⚙️ Technologies
+
+![Skills](https://skillicons.dev/icons?i=linux,docker,python,bash,php,js,ts,react,git,githubactions)
 ---
 
 ## 🔧 Key Projects
