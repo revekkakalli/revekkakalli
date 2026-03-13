@@ -1,87 +1,125 @@
-# Hi 👋 I'm Revekka Kalli
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:00c6ff&height=200&section=header&text=Revekka%20Kalli%20DevOps%20Engineer&fontSize=40&fontColor=ffffff)
+<!-- BANNER -->
+<h1 align="center">Hi 👋 I'm Revekka Kalli</h1>
 
-💻 DevOps Engineer | Linux Infrastructure | Automation | CI/CD  
-📍 Cyprus  
-⚙️ Passionate about infrastructure automation, monitoring systems, and building reliable platforms.
+<p align="center">
+DevOps Engineer • Linux Infrastructure • Automation • CI/CD
+</p>
+
+<p align="center">
+Building reliable infrastructure, automation pipelines and internal platforms.
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-DevOps engineer with experience in **Linux infrastructure, automation, CI/CD pipelines, and platform integrations**.
-
-Currently working with production hosting infrastructure where I design automation tools, deployment workflows, and internal platforms.
+DevOps engineer working with **production Linux infrastructure, automation tooling, and platform integrations**.
 
 My work focuses on:
 
-- Infrastructure automation
-- Linux server management
-- API integrations
-- CI/CD pipelines
-- Monitoring & observability
+⚙️ Infrastructure automation  
+🐧 Linux systems administration  
+🔁 CI/CD pipelines  
+🔗 API integrations for infrastructure platforms  
+📊 Monitoring and operational tooling  
+
+Currently working on improving **deployment workflows, automation systems, and internal developer platforms.**
 
 ---
 
-## 🛠 Tech Stack
+# 🧰 Tech Stack
 
-### DevOps & Infrastructure
-Linux • Docker • HAProxy • Zabbix • Virtualizor • Firewall Management • LAMP/LEMP
+### Infrastructure & DevOps
 
-### CI/CD & Automation
-Git • GitHub Actions • GitLab CI • Netlify • Cron automation • Bash scripting
+![Skills](https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions)
 
-### Programming
-Python • Bash • PHP • JavaScript • TypeScript
+Linux • LAMP / LEMP • HAProxy • Zabbix • Virtualizor  
+Infrastructure automation • Server provisioning • Firewall management
 
-### Web Technologies
-React • REST APIs • GraphQL • HTML • CSS • jQuery
-
-## ⚙️ Technologies
-
-![Skills](https://skillicons.dev/icons?i=linux,docker,python,bash,php,js,ts,react,git,githubactions)
 ---
 
-## 🔧 Key Projects
+### Automation & CI/CD
 
-### 🔹 Infrastructure Automation Toolkit
-Automation scripts for provisioning Linux servers and configuring services such as:
+![Skills](https://skillicons.dev/icons?i=git,githubactions,linux,bash)
 
-- LAMP / LEMP stacks
+Git workflows  
+GitHub Actions  
+GitLab CI  
+Cron automation  
+Deployment pipelines
+
+---
+
+### Programming & Scripting
+
+![Skills](https://skillicons.dev/icons?i=python,bash,php,js,ts)
+
+Python  
+Bash  
+PHP  
+JavaScript / TypeScript
+
+---
+
+### Web & APIs
+
+![Skills](https://skillicons.dev/icons?i=react,html,css)
+
+REST APIs  
+GraphQL  
+React  
+HTML / CSS  
+jQuery
+
+---
+
+# 🔧 Infrastructure & Automation Work
+
+### Linux Infrastructure Automation
+Developed automation scripts used to configure production infrastructure including:
+
+- LAMP / LEMP stack deployments
 - HAProxy load balancers
+- WordPress provisioning
 - Security tools (iptables, maldet)
-- WordPress deployments
-
-Tech: Bash, Linux, automation scripting
+- Server provisioning workflows
 
 ---
 
-### 🔹 Automated LookingGlass Deployment
-Built a **one-command deployment tool** for LookingGlass monitoring nodes.
+### LookingGlass Deployment Automation
+
+Created a **one-command deployment tool** for LookingGlass monitoring nodes.
 
 Features:
-- automated installation
-- monitoring setup
+
+- automatic installation
 - infrastructure integration
+- monitoring setup
+- Git-based deployment
 
-Tech: Bash, GitHub automation, Linux
-
----
-
-### 🔹 iDRAC Server Management Portal
-Developed an internal portal for centralized **Dell server management**.
-
-Features:
-
-- iDRAC / Redfish API integration
-- automated monitoring
-- cron-based data synchronization
-
-Tech: PHP, APIs, automation
+Tech: Linux, Bash, automation
 
 ---
 
-### 🔹 Infrastructure API Integrations
-Implemented integrations with multiple infrastructure platforms:
+### iDRAC Server Management Portal
+
+Developed an internal platform for **Dell server infrastructure management**.
+
+Capabilities:
+
+- iDRAC / Redfish API integrations
+- monitoring automation
+- centralized infrastructure management
+- cron-based synchronization
+
+Tech: PHP, APIs, Linux automation
+
+---
+
+### Infrastructure API Integrations
+
+Integrated internal systems with infrastructure platforms including:
 
 - Zabbix
 - Dell iDRAC / Redfish
@@ -89,30 +127,44 @@ Implemented integrations with multiple infrastructure platforms:
 - Servers.com
 - isHosting
 - Acronis Cloud Backup
-- JCC & INXY Payments APIs
+- JCC Payments
+- INXY Payments
 
 ---
 
-## ⚡ CI/CD & Deployment
+# 🔁 CI/CD & Deployment
 
 Designed and implemented:
 
-- Git-based deployment workflows
-- GitHub Actions CI pipelines
-- GitLab CI integrations
-- Netlify preview environments for React applications
+• Git-based deployment workflows  
+• Pull request based deployment pipelines  
+• GitHub Actions automation  
+• GitLab CI pipelines  
+• Netlify preview environments for React apps  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=revekkakalli&show_icons=true&theme=tokyonight)
-![snake gif](https://github.com/revekkakalli/revekkakalli/blob/output/github-contribution-grid-snake.svg)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revekkakalli&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=revekkakalli&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revekkakalli&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
-## 🎓 Education
+# 🐍 Contribution Activity
+
+<p align="center">
+<img src="https://github.com/revekkakalli/revekkakalli/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎓 Education
 
 **MSc Computer Science**  
 University of Cyprus
@@ -122,15 +174,19 @@ National Technical University of Athens
 
 ---
 
-## 📄 Publication
+# 📄 Publication
 
 Re-Identification Risk in Anonymized Data Sets with Parent-Child Information  
 SEEDA-CECNSM 2021
 
 ---
 
-## 📫 Connect With Me
+# 📫 Contact
 
-LinkedIn: https://linkedin.com/in/revekka-kalli  
 GitHub: https://github.com/revekkakalli  
+LinkedIn: https://linkedin.com/in/revekka-kalli  
 Email: kalli.revekka@gmail.com
+
+---
+
+⭐ Always interested in building automation tools and infrastructure platforms.
