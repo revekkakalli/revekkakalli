@@ -10,7 +10,6 @@ DevOps Engineer • Linux Infrastructure • Automation • CI/CD
 Building reliable infrastructure, automation pipelines and internal platforms.
 </p>
 
----
 
 # 🚀 About Me
 
