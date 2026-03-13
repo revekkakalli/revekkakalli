@@ -1,3 +1,165 @@
+<!-- DEVOPS BANNER -->
+
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:00c6ff&height=200&section=header&text=Revekka%20Kalli%20%7C%20DevOps%20Engineer&fontSize=40&fontColor=ffffff)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Linux+Infrastructure;Automation+Engineer;CI%2FCD+Pipelines;Platform+Integrations;Monitoring+%26+DevOps+Tooling" />
+</p>
+
+---
+
+# 👩‍💻 DevOps Engineer
+
+DevOps engineer specializing in **Linux infrastructure, automation tooling, CI/CD pipelines, and platform integrations**.
+
+Currently working on **production hosting infrastructure**, building automation systems and internal platforms that improve operational workflows.
+
+---
+
+# ⚙️ Infrastructure Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions,python,bash,php,js,ts,react" />
+</p>
+
+**Infrastructure**
+
+Linux • LAMP / LEMP • HAProxy • Zabbix • Virtualizor • Firewall Management
+
+**Automation**
+
+Bash scripting • Python • Cron automation • Server provisioning
+
+**CI/CD**
+
+GitHub Actions • GitLab CI • Branch-based deployments • Netlify preview environments
+
+---
+
+# 🔧 Infrastructure Projects
+
+### Linux Infrastructure Automation
+
+Developed automation scripts used to configure production servers including:
+
+- LAMP / LEMP stacks
+- HAProxy load balancers
+- WordPress deployments
+- iptables firewall rules
+- security tools (maldet)
+
+---
+
+### LookingGlass Deployment Automation
+
+Built a **one-command deployment tool** for LookingGlass monitoring nodes.
+
+Features
+
+• automated installation  
+• monitoring configuration  
+• infrastructure integration  
+
+Tech: Bash • Linux • Git automation
+
+---
+
+### iDRAC Server Management Portal
+
+Internal platform for centralized **Dell server management**.
+
+Features
+
+• iDRAC / Redfish API integration  
+• automated monitoring  
+• cron synchronization  
+• infrastructure control panel  
+
+Tech: PHP • APIs • automation
+
+---
+
+### Infrastructure API Integrations
+
+Integrated internal systems with infrastructure platforms including
+
+- Zabbix
+- Dell iDRAC / Redfish
+- Virtualizor
+- Servers.com
+- isHosting
+- Acronis Cloud Backup
+- JCC Payments
+- INXY Payments
+
+---
+
+# 🔁 CI/CD Pipelines
+
+Implemented deployment pipelines using:
+
+• Git-based deployment workflows  
+• Pull request environments  
+• GitHub Actions automation  
+• GitLab CI pipelines  
+• Netlify preview deployments
+
+---
+
+# 📊 DevOps Metrics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=revekkakalli&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revekkakalli&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=revekkakalli&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+<img src="https://github.com/revekkakalli/revekkakalli/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎓 Education
+
+**MSc Computer Science**  
+University of Cyprus  
+
+Thesis: *wAIter Assistant (Cognitive Programming)*  
+Technologies: LAMP, JavaScript, Java, Prolog, Docker
+
+---
+
+**BSc Electrical & Computer Engineering**  
+National Technical University of Athens  
+
+Thesis: *Data Anonymization Techniques on Family Trees*  
+Field: Computer Network Security  
+Technologies: Python
+---
+
+# 📄 Publication
+
+Re-Identification Risk in Anonymized Data Sets with Parent-Child Information  
+SEEDA-CECNSM (2021)
+
+---
+
+# 📫 Connect With Me
+
+GitHub: https://github.com/revekkakalli  
+LinkedIn: https://linkedin.com/in/revekka-kalli  
+Email: kalli.revekka@gmail.com
+
+
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:00c6ff&height=200&section=header&text=Revekka%20Kalli%20DevOps%20Engineer&fontSize=40&fontColor=ffffff)
 <!-- BANNER -->
 <p align="center">
