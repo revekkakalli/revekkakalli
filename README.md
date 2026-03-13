@@ -107,7 +107,7 @@ Designed and implemented:
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=revekkakalli&show_icons=true&theme=tokyonight)
-
+![snake gif](https://github.com/revekkakalli/revekkakalli/blob/output/github-contribution-grid-snake.svg)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revekkakalli&layout=compact&theme=tokyonight)
 
 ---
