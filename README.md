@@ -108,6 +108,20 @@ Integrated internal systems with infrastructure platforms including
 - JCC Payments
 - INXY Payments
 
+<details>
+<summary>🔧 Infrastructure API Integrations</summary>
+
+- Zabbix
+- Dell iDRAC / Redfish
+- Virtualizor
+- Servers.com
+- isHosting
+- Acronis Cloud Backup
+- JCC Payments
+- INXY Payments
+
+</details>
+
 ---
 
 # 🔁 CI/CD Pipelines
