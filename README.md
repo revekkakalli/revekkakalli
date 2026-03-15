@@ -1,11 +1,13 @@
 <!-- DEVOPS BANNER -->
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Revekka**](https://revekkakalli.com), a devops engineer in Larnaca.
+I'm [**Revekka**](https://revekkakalli.com), a DevOps engineer specializing in Linux infrastructure, automation tooling, CI/CD pipelines, and platform integrations.
+
+Currently working on production hosting infrastructure, building automation systems and internal platforms that improve operational workflows.
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/revekkakalli)
-
+[<img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://revekkakalli.com)
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Linux+Infrastructure;Automation+Engineer;CI%2FCD+Pipelines;Platform+Integrations;Monitoring+%26+DevOps+Tooling" />
