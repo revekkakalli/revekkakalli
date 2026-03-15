@@ -1,5 +1,5 @@
 <!-- DEVOPS BANNER -->
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hi there!
 
 I'm [**Revekka**](https://revekkakalli.com), a DevOps engineer specializing in Linux infrastructure, automation tooling, CI/CD pipelines, and platform integrations.
 
