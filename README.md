@@ -1,6 +1,11 @@
 <!-- DEVOPS BANNER -->
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:00c6ff&height=200&section=header&text=Revekka%20Kalli%20%7C%20DevOps%20Engineer&fontSize=40&fontColor=ffffff)
+I'm [**Revekka**](https://revekkakalli.com), a devops engineer in Larnaca.
+
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/revekkakalli)
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Linux+Infrastructure;Automation+Engineer;CI%2FCD+Pipelines;Platform+Integrations;Monitoring+%26+DevOps+Tooling" />
