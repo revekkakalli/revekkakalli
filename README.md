@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm [**Revekka**](https://revekkakalli.com), a DevOps engineer specializing in Linux infrastructure, automation tooling, CI/CD pipelines, and platform integrations.
+I'm [**Revekka**](https://revekkakalli.com), a DevOps Engineer specializing in Linux infrastructure, automation tooling, CI/CD pipelines, and platform integrations.
 
 Currently working on production hosting infrastructure, building automation systems and internal platforms that improve operational workflows.
 
